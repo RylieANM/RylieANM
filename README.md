@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RylieANM
-- 👀 I’m interested in ... Web Developing
+- 👀 I’m interested in ... Games Scripting
 - 🌱 I’m currently learning ... HTML/JAVA/CSS/C/C#/C++
 - 💞️ I’m looking to collaborate on ... Wev Developer
 - 📫 How to reach me ... message me @rycutie00@gmail.com
