@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RylieANM
 - 👀 I’m interested in ... Games Scripting Web Developing Programming
 - 🌱 I’m currently learning ... HTML/JAVA/CSS/C/C#/C++
-- 💞️ I’m looking to collaborate on ... Wev Developer
+- 💞️ I’m looking to collaborate on ... Web Developer
 - 📫 How to reach me ... message me @ryplays00@gmail.com
 
 <!---
